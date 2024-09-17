@@ -10,3 +10,29 @@ body {
 * {
   box-sizing: border-box;
 }
+
+.cell {
+  width: 50px;
+  height: 50px;
+}
+
+.empty {
+  background-color: green;
+}
+
+.block {
+  background-color: brown;
+}
+
+.user {
+  background-color: red;
+}
+
+.bomb {
+  background-color: black;
+  border-radius: 100%;
+}
+
+.flame {
+  background-color: yellow;
+}
