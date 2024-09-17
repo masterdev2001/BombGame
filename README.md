@@ -2,6 +2,8 @@
 
 Vite React Typescript template for simple web frontend project.
 
+![image](./images/image.png)
+
 ## Tasks
 
 - User should be able to input number of rows and columns (default: 7X7)
