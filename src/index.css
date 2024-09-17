@@ -1,0 +1,12 @@
+:root {
+  --ct-width: 100vw;
+}
+
+body {
+  margin: 0;
+  padding: 20px;
+}
+
+* {
+  box-sizing: border-box;
+}
